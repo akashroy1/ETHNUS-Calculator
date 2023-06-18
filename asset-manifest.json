@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ETHNUS-Calculator/static/css/main.1d342fc9.css",
+    "main.js": "/ETHNUS-Calculator/static/js/main.2872b627.js",
+    "index.html": "/ETHNUS-Calculator/index.html",
+    "main.1d342fc9.css.map": "/ETHNUS-Calculator/static/css/main.1d342fc9.css.map",
+    "main.2872b627.js.map": "/ETHNUS-Calculator/static/js/main.2872b627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d342fc9.css",
+    "static/js/main.2872b627.js"
+  ]
+}
